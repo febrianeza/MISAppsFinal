@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MISApps</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="produk_mdb">Multi Inti Digital Bisnis (MDB) siap melayani masyarakat dengan sejumlah produk digital berbasis aplikasi, seperti:  \n1. Multi Inti Digital Transportasi (Capsule Bus)  \n2. Multi Inti Digital Lestari (E-Recycle)  \n3. Sistim Digital Transaksi Indonesia (Digital Cooperative)  \n4. Sistim Digital Loyalti Indonesia (PrivilegeID) \n5. Multi Inti Digital Logistik (Digital Logistics)</string>
+    <string name="apps_desc">Aplikasi ini adalah project final dari training PT. MDB yang menerapkan Restful API untuk komunikasi data antar client dan server.</string>
+</resources>
